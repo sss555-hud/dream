@@ -1,3 +1,33 @@
+header{
+  width: 1440px;
+  height: 100px;
+  border: 1px solid red;
+  margin: 0 auto;
+
+}
+
+.lading{
+  display: flex;
+
+}
+button{
+  width: 100px;
+  height: 50px;
+  background-color: rgb(152, 159, 159);
+  border: none;
+  border-radius: 3px;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-left: 60px;
+}
+h3{
+  margin-left: 420px;
+  margin-top:40px;
+}
+h1{
+  margin-top: 20px;
+  margin-left: 50px;
+}
 
 .footer {
     width: 1440px;
